@@ -73,6 +73,11 @@ Gostariamos de deixar um agradecimento especial ao Sr. Claudio, um dos propriet�
   
 🔗 [https://nicolassilvasantos-dev.github.io/Projeto-Incepi/](https://nicolassilvasantos-dev.github.io/Projeto-Incepi/)
 
+## Slides da Apresentação
+
+[Incepi do Brasil — Apresentação.pptx](https://github.com/user-attachments/files/34778921/Incepi.do.Brasil.Apresentacao.pptx)
+
+
 ## Relato de Contato com a Empresa
 
 Trabalho na empresa Incepi do Brasil há alguns anos, e quando recebi a tarefa de criar um site, fui direto ao setor administrativo para saber se poderia desenvolver o site da empresa. Conversei com um dos donos da empresa, o senhor Claudio, e ele imediatamente autorizou o projeto. Ele também me explicou como poderia ser feito e me deu um pendrive com as informações e imagens que eu precisava.
